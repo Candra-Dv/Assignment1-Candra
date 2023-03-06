@@ -1,0 +1,19 @@
+.jumbotron{
+    margin-top: 8em;
+}
+
+.lead.a {
+    font-size: 15px;
+}
+
+.lead.b {
+    font-size: 12px;
+}
+
+.footer {
+    background-color: rgb(77, 75, 75);
+}
+
+.footer-list{
+    color: white;
+}
